@@ -1,14 +1,21 @@
-# API-Integration-and-Data-Visualisation
-API INTEGRATION AND DATA
+# API-INTEGRATION-AND-DATA-VISUALIZATION
 
-VISUALIZATIONCOMPANY: CODTECH IT SOLUTIONS
+COMPANY : CODTECH IT SOLUTIONS
 
 NAME: AVULA ARCHITHA
 
 INTERN ID: CT04DZ1350
 
-DOMAIN: PYTHON PROGRAMMING
+DOMAIN NAME: PYTHON PROGRAMMING
 
-DURATION: 4 WEEEKS
+BATCH DURATION: JULY 25TH, 2025 TO AUGUST 25TH, 2025
 
-MENTOR: NEELA SANTOSH
+MENTOR NAME: NEELA SANTOSH KUMAR
+
+Use python lauguage to fetch data from a public API like -OPENWEATHERMAP API and create visualizations using MATPLOTLIB library
+
+This model fetch current weather of any city or country just type the name of city or country and fetch weather
+
+Requirements: install necessary libraries:
+
+pip install requests matplotlib
